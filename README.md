@@ -21,9 +21,11 @@
   </a>
 </div>
 
+<!--
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ru5iru&style=flat-square&color=blue" alt="" />
 </div>
+-->
 
 <div id="header" align="center">
   <h1>
