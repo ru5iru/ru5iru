@@ -37,6 +37,17 @@
 </h1>
 </div>
 
+```typescript
+let ru5iru = {
+    pronouns: "He/Him",
+    location: "Galle, Sri Lanka.",
+    timezone: "SLST (UTC+05:30)",
+    bio: "I'm Rusiru Rathmina, a computer science undergraduate at UCSC 👨‍💻 🕵️",
+    projects: [ "MicroCAPS", "Roamly" ],
+    favoriteLanguages: [ "C", "JavaScript", "PHP", "Python" ],
+}
+```
+
 
 
 <!--
