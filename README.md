@@ -72,6 +72,7 @@ let ru5iru = {
 ### Backend
 
 <div align="center">  
+  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
