@@ -24,16 +24,10 @@
   </a>
 </div>
 
-<!--
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ru5iru&style=flat-square&color=blue" alt="" />
-</div>
--->
-
-<div id="header" align="center">
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1 style="color: yellow;">
+    Hi there 👋
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
 </div>
 
@@ -44,7 +38,7 @@ let ru5iru = {
     timezone: "SLST (UTC+05:30)",
     bio: "I'm Rusiru Rathmina, a computer science undergraduate at UCSC 👨‍💻 🕵️",
     projects: [ "MicroCAPS", "Roamly" ],
-    favoriteLanguages: [ "C", "JavaScript", "PHP", "Python" ],
+    favoriteLanguages: [ "C++", "JavaScript", "PHP", "Python" ],
 }
 ```
 
