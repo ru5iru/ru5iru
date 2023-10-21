@@ -58,7 +58,7 @@ let ru5iru = {
   <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /></a>
 <!-- <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /></a> -->
   <!-- <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" /></a>   -->
-  <!-- <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>   -->
+  <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
   <!-- <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="40" /></a>   -->  
   <!-- <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a> -->
 </div>
@@ -107,6 +107,25 @@ let ru5iru = {
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a> 
 
+<h2>GitHub Stats :chart_with_upwards_trend:</h2>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ru5iru&theme=dark">
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ru5iru&theme=dark">
+  </span>
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ru5iru&theme=dark">
+  </span>
+<!--   <br/>
+  <br/>
+  <div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru5iru&theme=dark">
+    </div>
+   <br/>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=ru5iru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    </div>
+  </div> -->
 <!--
 **ru5iru/ru5iru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
