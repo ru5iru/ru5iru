@@ -93,6 +93,8 @@ let ru5iru = {
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
   <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="40" /></a>
   <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a> 
+  <a href="https://www.drupal.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/drupal/drupal-plain-wordmark.svg" alt="Drupal" height="40" /></a>
+  <a href="https://www.drupal.org/" target="_blank"><img style="margin: 10px;border-radius: 0.375rem;" src="https://avatars.githubusercontent.com/u/15967950?s=200&v=4" alt="Drupal" height="40" /></a>
   <!-- <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" /></a>   -->
   <!-- <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" /></a> -->
 </div>
