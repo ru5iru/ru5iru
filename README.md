@@ -37,7 +37,7 @@ let ru5iru = {
     location: "Galle, Sri Lanka. 🇱🇰",
     timezone: "SLST (UTC+05:30) 🕠",
     bio: "I'm Rusiru Rathmina, a computer science undergraduate at UCSC 👨‍💻",
-    projects: [ "MicroCAPS", "Roamly" ],
+    projects: [ "MicroCAPS", "Roamly", "Project-X" ],
     favoriteLanguages: [ "C++", "JavaScript", "PHP", "Python" ],
 }
 ```
