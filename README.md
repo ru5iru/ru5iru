@@ -36,7 +36,7 @@ let ru5iru = {
     pronouns: "He/Him",
     location: "Galle, Sri Lanka. 🇱🇰",
     timezone: "SLST (UTC+05:30) 🕠",
-    bio: "I'm Rusiru Rathmina, a computer science undergraduate at UCSC 👨‍💻",
+    bio: "I'm Rusiru Rathmina, A fresh graduate from UCSC 👨‍💻",
     projects: [ "MicroCAPS", "Roamly", "Project-X" ],
     favoriteLanguages: [ "C++", "JavaScript", "PHP", "Python" ],
 }
