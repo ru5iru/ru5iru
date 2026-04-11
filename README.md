@@ -1,144 +1,96 @@
-<!-- ### Hi there 👋 -->
-
-<div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="150"/>
-<!--   <img src="https://media.giphy.com/media/2bvcIZuvnBkWxb68Bx/giphy.gif" width="150"/> -->
+<div align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+  <h1>Hi 👋 I'm Rusiru Rathmina</h1>
+  <h3>Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast</h3>
 </div>
 
-<div id="badges"  align="center">
-<!--     <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://www.linkedin.com/in/ru5iru">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/ru5iru" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.sololearn.com/profile/21588952" target="_blank">
-    <img src="https://img.shields.io/badge/-Sololearn-8252dd?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/ru5iru/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
-  </a>
-</div>
+---
 
-<div id="header" align="center">
-  <h1 style="color: yellow;">
-    Hi there 👋
-<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-</h1>
-</div>
-
-```typescript
-let ru5iru = {
-    pronouns: "He/Him",
-    location: "Galle, Sri Lanka. 🇱🇰",
-    timezone: "SLST (UTC+05:30) 🕠",
-    bio: "I'm Rusiru Rathmina, A fresh graduate from UCSC 👨‍💻",
-    projects: [ "MicroCAPS", "Roamly", "Project-X" ],
-    favoriteLanguages: [ "C++", "JavaScript", "PHP", "Python" ],
-}
+```ts
+const rusiru = {
+  role     : "Associate Software Engineer @ Omobio (Pvt) Ltd",
+  location : "Sri Lanka 🇱🇰",
+  focus    : ["Microservices", "Apache Kafka", "AWS", "System Design"],
+  learning : ["Advanced AWS", "Kafka Streams", "Scalable Architecture"],
+  openTo   : "Challenging backend & cloud engineering problems",
+  quote    : "Complex systems → clean, scalable solutions 🚀",
+} as const;
 ```
 
-## Languages and Tools :hammer_and_pick:
+---
 
-<table><tr><td valign="top" width="33%">
+## 🛠 Tech Stack
 
-### Frontend
+**Languages**
 
-<div align="center">  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a> 
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>   
-  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /></a>
-<!-- <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /></a> -->
-  <!-- <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" /></a>   -->
-  <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
-  <!-- <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="40" /></a>   -->  
-  <!-- <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a> -->
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-</td><td valign="top" width="33%">
+**Frameworks**
 
-### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-010101?style=flat-square&logo=yii&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
 
-<div align="center">  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a> 
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>
-</div>
+**Databases**
 
-</td><td valign="top" width="33%">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Environments & Tools
+**DevOps & Cloud**
 
-<div align="center">  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-  <a href="" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" height="40" /></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" /></a> 
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
-  <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="40" /></a>
-  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a> 
-  <a href="https://www.drupal.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/drupal/drupal-plain-wordmark.svg" alt="Drupal" height="40" /></a>
-  <a href="https://www.drupal.org/" target="_blank"><img style="margin: 10px;border-radius: 0.375rem;" src="https://avatars.githubusercontent.com/u/15967950?s=200&v=4" alt="Drupal" height="40" /></a>
-  <!-- <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" /></a>   -->
-  <!-- <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" /></a> -->
-</div>
-</td></tr>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-</table>
+**Tools**
 
-## Learning :black_nib:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>
-<a href="https://docs.spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a> 
+---
 
-<h2>GitHub Stats :chart_with_upwards_trend:</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ru5iru&theme=dark">
-  <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ru5iru&theme=dark">
-  </span>
-  <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ru5iru&theme=dark">
-  </span>
-<!--   <br/>
+## 🧩 Specializations
+
+```
+Backend Engineering    ██████████████████░░  90%
+Cloud & DevOps         ████████████████░░░░  78%
+System Design          ██████████████░░░░░░  70%
+Messaging / Kafka      ████████████░░░░░░░░  60%  ← actively leveling up
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ru5iru&theme=github_dark" width="80%" />
   <br/>
-  <div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru5iru&theme=dark">
-    </div>
-   <br/>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=ru5iru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-    </div>
-  </div> -->
-<!--
-**ru5iru/ru5iru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ru5iru&theme=github_dark" width="38%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ru5iru&theme=github_dark" width="38%" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru5iru)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ru5iru)
+[![Sololearn](https://img.shields.io/badge/Sololearn-8252dd?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/21588952)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ru5iru/)
+
+</div>
