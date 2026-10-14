@@ -8,7 +8,7 @@
 
 ```ts
 const rusiru = {
-  role     : "Associate Software Engineer @ Omobio (Pvt) Ltd",
+  role     : "Software Engineer @ Omobio (Pvt) Ltd",
   location : "Sri Lanka 🇱🇰",
   focus    : ["Microservices", "Apache Kafka", "AWS", "System Design"],
   learning : ["Advanced AWS", "Kafka Streams", "Scalable Architecture"],
