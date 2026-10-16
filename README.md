@@ -72,7 +72,7 @@ Messaging / Kafka      ████████████░░░░░░░
 ```
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,7 +81,7 @@ Messaging / Kafka      ████████████░░░░░░░
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ru5iru&theme=github_dark" width="38%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ru5iru&theme=github_dark" width="38%" />
 </div>
-
+-->
 ---
 
 ## 🔗 Connect
