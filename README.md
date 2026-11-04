@@ -55,23 +55,23 @@ $ru5iru = new Developer(
 <p align="left" style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/ru5iru" target="_blank" rel="noopener noreferrer">
     <img src="assets/linkedin.svg" alt="LinkedIn"
-         height="41" width="41" style="border-radius: 0 !important; display: block;" />
+         height="40" width="40" style="border-radius: 0 !important; display: block;" />
   </a>
   <a href="https://www.facebook.com/ru5iru/" target="_blank" rel="noopener noreferrer">
     <img src="assets/facebook.svg" alt="Facebook"
-         height="38" width="38" style="border-radius: 0 !important; display: block;" />
+         height="40" width="40" style="border-radius: 0 !important; display: block;" />
   </a>
   <a href="https://instagram.com/rusiru.rathmina" target="_blank" rel="noopener noreferrer">
     <img src="assets/instagram.svg" alt="Instagram"
-         height="42" width="42" style="border-radius: 0 !important; display: block;" />
+         height="40" width="40" style="border-radius: 0 !important; display: block;" />
   </a>
   <a href="https://www.reddit.com/u/ru5iru/" target="_blank" rel="noopener noreferrer">
     <img src="assets/reddit.svg" alt="Reddit"
-         height="39" width="39" style="border-radius: 0 !important; display: block;" />
+         height="40" width="40" style="border-radius: 0 !important; display: block;" />
   </a>
   <a href="https://x.com/ru5iru" target="_blank" rel="noopener noreferrer">
     <img src="assets/x.svg" alt="X"
-         height="35" width="35" style="border-radius: 0 !important; display: block;" />
+         height="40" width="40" style="border-radius: 0 !important; display: block;" />
   </a>
 </p>
 
