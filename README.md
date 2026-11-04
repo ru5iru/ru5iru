@@ -31,11 +31,23 @@ $ru5iru = new Developer(
 
 #### 🧑‍💻 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ru5iru&theme=gotham&animation=rise&duration=3&name=Rusiru+Rathmina)
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ru5iru&theme=gotham&animation=rise&duration=3&exclude=html" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ru5iru&theme=gotham&animation=rise&duration=3" width="49%" />
+  <table width="100%" border="0" cellspacing="0" cellpadding="0"
+         style="border: none; margin: 0 auto;">
+    <tr>
+      <td colspan="2" align="center" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ru5iru&theme=gotham&animation=rise&duration=3&name=Rusiru+Rathmina" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ru5iru&theme=gotham&animation=rise&duration=3&exclude=html" width="100%" />
+      </td>
+      <td width="50%" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ru5iru&theme=gotham&animation=rise&duration=3" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
