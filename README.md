@@ -35,15 +35,13 @@ $ru5iru = new Developer(
   <table width="100%" border="0" cellspacing="0" cellpadding="0"
          style="border: none; margin: 0 auto;">
     <tr>
-      <td colspan="2" align="center" style="border: none;">
+      <td align="center" style="border: none;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ru5iru&theme=gotham&animation=rise&duration=3&name=Rusiru+Rathmina" width="100%" />
       </td>
-    </tr>
-    <tr>
-      <td width="50%" style="border: none;">
+      <td width="25%" style="border: none;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ru5iru&theme=gotham&animation=rise&duration=3&exclude=html" width="100%" />
       </td>
-      <td width="50%" style="border: none;">
+      <td width="25%" style="border: none;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ru5iru&theme=gotham&animation=rise&duration=3" width="100%" />
       </td>
     </tr>
@@ -54,18 +52,26 @@ $ru5iru = new Developer(
 
 #### 🤝 Connect With Me
 
-<p align="left" style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-  <a href="https://www.linkedin.com/in/ru5iru" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="left" style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/ru5iru" target="_blank" rel="noopener noreferrer">
+    <img src="assets/linkedin.svg" alt="LinkedIn"
+         height="41" width="41" style="border-radius: 0 !important; display: block;" />
   </a>
-  <a href="https://www.facebook.com/ru5iru/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <a href="https://www.facebook.com/ru5iru/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/facebook.svg" alt="Facebook"
+         height="38" width="38" style="border-radius: 0 !important; display: block;" />
   </a>
-  <a href="https://instagram.com/rusiru.rathmina" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <a href="https://instagram.com/rusiru.rathmina" target="_blank" rel="noopener noreferrer">
+    <img src="assets/instagram.svg" alt="Instagram"
+         height="42" width="42" style="border-radius: 0 !important; display: block;" />
   </a>
-  <a href="https://x.com/ru5iru" target="_blank">
-    <img src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/c7cefddb-2f43-482b-adf3-948405a29e66" height="40" width="40" />
+  <a href="https://www.reddit.com/u/ru5iru/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/reddit.svg" alt="Reddit"
+         height="39" width="39" style="border-radius: 0 !important; display: block;" />
+  </a>
+  <a href="https://x.com/ru5iru" target="_blank" rel="noopener noreferrer">
+    <img src="assets/x.svg" alt="X"
+         height="35" width="35" style="border-radius: 0 !important; display: block;" />
   </a>
 </p>
 
